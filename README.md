@@ -4,7 +4,8 @@ Build your Resume by filling all the required details<br/><br/>
 **Features**<br/>
 User Signup and Signin<br/>
 Enable users to download resume.<br/>
-Resume Template Selection.<br/>
+Save the Resume to database.<br/>
+Get their details and edit them.<br/>
 Skill suggestion based on technology.<br/>
 Chatbot with small talk and help enabled.<br/>
 
